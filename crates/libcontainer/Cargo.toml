@@ -29,7 +29,7 @@ fastrand = "^1.7.0"
 futures = { version = "0.3", features = ["thread-pool"] }
 libc = "0.2.141"
 log = "0.4"
-mio = { version = "0.8.6", features = ["os-ext", "os-poll"] }
+mio = { version = "0.8.11", features = ["os-ext", "os-poll"] }
 nix = "0.26.2"
 path-clean = "1.0.1"
 oci-spec = { version = "^0.6.0", features = ["runtime"] }
